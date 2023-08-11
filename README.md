@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there, I'm Sarthak 👋
+- 🌱 I’m currently learning Data Analysis and business acumen.
+- 📫 How to reach me: sarthakmanal@gmail.com
 <!--
 **sarthakmanalwar/sarthakmanalwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

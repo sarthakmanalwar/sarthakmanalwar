@@ -1,5 +1,4 @@
 <h1>Hi there, I'm Sarthak 👋</h1>
-<a href="https://drive.google.com/file/d/1ebRBqmevjHvf2akAAYnaJ_PMLreNUqpV/view?usp=drivesdk">My Resume</a><br>
 - 🌱 I’m currently learning Data Analysis and business acumen.<br>
 - 📫 How to reach me: sarthakmanal@gmail.com<br>
 - 💬 Ask me about Data Analysis tools and roadmap.

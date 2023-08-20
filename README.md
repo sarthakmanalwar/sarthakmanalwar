@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Sarthak 👋</h1>
 - 🌱 I’m Passionate Data Analyst and Business Strategic <br>
-- 📫 How to reach me: sarthakmanal@gmail.com<br>
+- 📫 How to reach me: sarthakmanal@gmail.com <br>
 - 💬 Ask me about Data Analysis tools and roadmap.
 <!--
 Here are some ideas to get you started:

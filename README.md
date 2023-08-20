@@ -1,10 +1,8 @@
 <h1>Hi there, I'm Sarthak 👋</h1>
-- 🌱 I’m currently learning Data Analysis and business acumen.<br>
+- 🌱 I’m Passionate Data Analyst and Business Strategic <br>
 - 📫 How to reach me: sarthakmanal@gmail.com<br>
 - 💬 Ask me about Data Analysis tools and roadmap.
 <!--
-**sarthakmanalwar/sarthakmanalwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

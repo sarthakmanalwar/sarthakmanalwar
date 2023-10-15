@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Ventuer Visionaries. <br>
 - 🌱 I’m currently learning Ghost Writing. <br>
 - 🤔 I’m looking for help with content writing. <br>
-- 📫 How to reach me: <mailto:sarthakmanal@gmail.com>
+- 📫 How to reach me: sarthakmanal@gmail.com
 <!--
 Here are some ideas to get you started:
 

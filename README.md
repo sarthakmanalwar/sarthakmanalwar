@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sarthak Manalwar</h1>
-<h3 align="center">A passionate Business Analyst</h3>
+<h3 align="center">Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakmanalwar&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakmanalwar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sarthakmanalwar" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakmanalwar?logo=twitter&style=for-the-badge" alt="sarthakmanalwar" /></a> </p>
 
-- 🔭 I’m currently working on **Venture Visionaries**
+- 🔭 I’m currently working on **Databricks**
 
-- 🌱 I’m currently learning **Ghost Writing**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/sarthak-manalwar)
 
 - 📝 I regularly write articles on [sarthak-manalwar.super.site](sarthak-manalwar.super.site)
 
-- 💬 Ask me about **Data Analysis & Business Analysis**
+- 💬 Ask me about **Data Engineering & Business Analysis**
 
 - 📫 How to reach me **sarthakmanal@gmail.com**
 

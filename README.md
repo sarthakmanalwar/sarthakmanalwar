@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Manalwar</h1>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">Associate Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakmanalwar&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakmanalwar" /> </p>
 
@@ -11,13 +11,9 @@
 
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/sarthak-manalwar)
 
-- 📝 I regularly write articles on [sarthak-manalwar.super.site](sarthak-manalwar.super.site)
-
 - 💬 Ask me about **Data Engineering & Business Analysis**
 
 - 📫 How to reach me **sarthakmanal@gmail.com**
-
-- ⚡ Fun fact **I think I am trustworthy**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
